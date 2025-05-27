@@ -1,5 +1,5 @@
 import {z} from 'zod';
-import { redditUserSchema } from '../RedditTypes';
+import { redditUserSchema } from './RedditTypes';
 
 export const FPS = 30;
 export const DurationInSeconds = 10;

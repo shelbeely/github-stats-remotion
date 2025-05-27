@@ -1,5 +1,5 @@
 import React from 'react';
-import { RedditUser } from '../../../../RedditTypes'; // Verified path
+import { RedditUser } from '../../../RedditTypes'; // Verified path
 
 interface RedditUserCardProps {
   user: RedditUser;
